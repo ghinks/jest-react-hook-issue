@@ -6,4 +6,4 @@
 error (Invariant violation) is seen when attempting to write a unit test. I am now at a loss about what to try next.
 
 
-![error](./ScreenShot.png "jest errro")
+![error](./ScreenShot.png "jest error")
