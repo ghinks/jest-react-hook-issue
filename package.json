@@ -2,7 +2,6 @@
   "name": "jest-react-hook-issue",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode=development --config webpack.config.js",
     "test": "jest ./src"
